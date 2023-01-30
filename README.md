@@ -1,0 +1,2 @@
+# QRCode Generator App
+This app uses [this js code gist to generate qr codes](https://gist.github.com/tupham81/a04d96cd48c8bcb8d4dc5301f3653937) (the code was copied and modifed to be easier to use in the app's code)
